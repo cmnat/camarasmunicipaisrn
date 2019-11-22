@@ -4,6 +4,10 @@ Geojson das câmaras municipais do estado do Rio Grande do Norte
 
 Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_data.ods)
 
+
+
+
+
 ## Referências
 
 [Estimativas do IBGE para os municípios do RN para o ano de 2018](assets/populacao_municipios_rn.csv)
