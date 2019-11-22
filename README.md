@@ -6,7 +6,11 @@ Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_d
 
 
 
+| Posição | Município | População | Site Câmara             | Latitude  | Longitude  |
+| ------- | --------- | --------- | ----------------------- | --------- | ---------- |
+| 1       | Natal     | 880264    | http://cmnat.rn.gov.br/ | -5.790040 | -35.200482 |
 
+## 
 
 ## Referências
 
