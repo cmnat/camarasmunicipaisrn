@@ -2,7 +2,7 @@
 
 Geojson das câmaras municipais do estado do Rio Grande do Norte
 
-Base de dados em planilha no formato aberto [ODS](assets/populacao_municipios_rn.ods)
+Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_data.ods)
 
 ## Referências
 
