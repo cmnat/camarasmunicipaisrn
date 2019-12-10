@@ -17,7 +17,7 @@ Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_d
 | 9       | Currais Novos           |     45248 | http://camaradecurraisnovos.com.br/ | -6.263526 | -36.513782 |
 | 10      | Santa Cruz              |     44067 | https://www.santacruz.rn.leg.br/    | -6.230224 | -36.020601 |
 
-## 
+
 
 ## Referências
 
@@ -28,3 +28,5 @@ Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_d
 [Projeto Enquadratos Github](https://github.com/analytics-ufcg/enquadrados)
 
 [Raspagem de dados da Câmara Municipal de Natal/RN](https://github.com/gabicavalcante/raspagem-ordens-camara)
+
+[GeoJson Mapa](https://github.com/mapaderibeirao/mapas/tree/master/turismo)
