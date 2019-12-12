@@ -1,0 +1,205 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -35.200482,-5.790040 ]
+    },
+    "properties": {
+    "Município":"Natal",
+    "População":880264,
+    "Site Prefeitura":"https://natal.rn.gov.br/",
+    "Site Câmara":"http://cmnat.rn.gov.br/",
+    "Portal de Transparência Câmara":"http://cmnat.rn.gov.br/portal-da-transparencia",
+    "Relação \nServidores Câmara":"http://189.89.66.158:8080/transparencia/pages/pessoa.jsf",
+    "Data Coleta":"21/11/19",
+    "Qtde\nServidores":744,
+    "Área Construída (m²)":2900,
+    "m²/Servidores":"3,90",
+    "Servidores \npor 1.000 \nHabitantes":"0,85"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.341804,-5.192654 ]
+    },
+    "properties": {
+    "Município":"Mossoró",
+    "População":300102,
+    "Site Prefeitura":"https://www.prefeiturademossoro.com.br/",
+    "Site Câmara":"https://www.mossoro.rn.leg.br/",
+    "Portal de Transparência Câmara":"",
+    "Relação \nServidores Câmara":"",
+    "Data Coleta":"",
+    "Qtde\nServidores":null,
+    "Área Construída (m²)":null,
+    "m²/Servidores":"",
+    "Servidores \npor 1.000 \nHabitantes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -35.265434,-5.923764 ]
+    },
+    "properties": {
+    "Município":"Parnamirim",
+    "População":259737,
+    "Site Prefeitura":"https://parnamirim.rn.gov.br/",
+    "Site Câmara":"http://www.parnamirim.rn.leg.br/",
+    "Portal de Transparência Câmara":"",
+    "Relação \nServidores Câmara":"",
+    "Data Coleta":"",
+    "Qtde\nServidores":null,
+    "Área Construída (m²)":null,
+    "m²/Servidores":"",
+    "Servidores \npor 1.000 \nHabitantes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -35.328604,-5.794169 ]
+    },
+    "properties": {
+    "Município":"São Gonçalo do Amarante",
+    "População":103328,
+    "Site Prefeitura":"http://saogoncalo.rn.gov.br/",
+    "Site Câmara":"http://www.cmsga.rn.gov.br/",
+    "Portal de Transparência Câmara":"",
+    "Relação \nServidores Câmara":"",
+    "Data Coleta":"",
+    "Qtde\nServidores":null,
+    "Área Construída (m²)":null,
+    "m²/Servidores":"",
+    "Servidores \npor 1.000 \nHabitantes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -35.353950,-5.857753 ]
+    },
+    "properties": {
+    "Município":"Macaíba",
+    "População":82380,
+    "Site Prefeitura":"http://macaiba.rn.gov.br/",
+    "Site Câmara":"http://macaiba.rn.leg.br/",
+    "Portal de Transparência Câmara":"",
+    "Relação \nServidores Câmara":"",
+    "Data Coleta":"",
+    "Qtde\nServidores":null,
+    "Área Construída (m²)":null,
+    "m²/Servidores":"",
+    "Servidores \npor 1.000 \nHabitantes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -35.422153,-5.632780 ]
+    },
+    "properties": {
+    "Município":"Ceará-Mirim",
+    "População":73484,
+    "Site Prefeitura":"http://macaiba.rn.gov.br/",
+    "Site Câmara":"https://www.cearamirim.rn.leg.br",
+    "Portal de Transparência Câmara":"",
+    "Relação \nServidores Câmara":"",
+    "Data Coleta":"",
+    "Qtde\nServidores":null,
+    "Área Construída (m²)":null,
+    "m²/Servidores":"",
+    "Servidores \npor 1.000 \nHabitantes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.096148,-6.457560 ]
+    },
+    "properties": {
+    "Município":"Caicó",
+    "População":68268,
+    "Site Prefeitura":"https://www.caico.rn.gov.br/",
+    "Site Câmara":"http://caico.rn.leg.br/",
+    "Portal de Transparência Câmara":"",
+    "Relação \nServidores Câmara":"",
+    "Data Coleta":"",
+    "Qtde\nServidores":null,
+    "Área Construída (m²)":null,
+    "m²/Servidores":"",
+    "Servidores \npor 1.000 \nHabitantes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -36.908962,-5.573384 ]
+    },
+    "properties": {
+    "Município":"Açu",
+    "População":57972,
+    "Site Prefeitura":"http://assu.rn.gov.br/",
+    "Site Câmara":"http://www.acu.rn.leg.br/",
+    "Portal de Transparência Câmara":"",
+    "Relação \nServidores Câmara":"",
+    "Data Coleta":"",
+    "Qtde\nServidores":null,
+    "Área Construída (m²)":null,
+    "m²/Servidores":"",
+    "Servidores \npor 1.000 \nHabitantes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -36.513782,-6.263526 ]
+    },
+    "properties": {
+    "Município":"Currais Novos",
+    "População":45248,
+    "Site Prefeitura":"http://prefeituracurraisnovos.com.br/",
+    "Site Câmara":"http://camaradecurraisnovos.com.br/",
+    "Portal de Transparência Câmara":"",
+    "Relação \nServidores Câmara":"",
+    "Data Coleta":"",
+    "Qtde\nServidores":null,
+    "Área Construída (m²)":null,
+    "m²/Servidores":"",
+    "Servidores \npor 1.000 \nHabitantes":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -36.020601,-6.230224 ]
+    },
+    "properties": {
+    "Município":"Santa Cruz",
+    "População":44067,
+    "Site Prefeitura":"http://www.santacruz.rn.gov.br/",
+    "Site Câmara":"https://www.santacruz.rn.leg.br/",
+    "Portal de Transparência Câmara":"",
+    "Relação \nServidores Câmara":"",
+    "Data Coleta":"",
+    "Qtde\nServidores":null,
+    "Área Construída (m²)":null,
+    "m²/Servidores":"",
+    "Servidores \npor 1.000 \nHabitantes":""
+    }
+  }
+]
+}
