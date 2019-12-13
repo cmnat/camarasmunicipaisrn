@@ -23,7 +23,7 @@ Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_d
 
 [Estimativas do IBGE para os municípios do RN para o ano de 2018 (CSV)](assets/populacao_municipios_rn.csv)
 
-[Projeto Enquadrados Site](analytics-ufcg.github.io/enquadrados)
+[Projeto Enquadrados Site](https://analytics-ufcg.github.io/enquadrados)
 
 [Projeto Enquadratos Github](https://github.com/analytics-ufcg/enquadrados)
 
