@@ -1,23 +1,21 @@
 # Câmaras Municipais do Rio Grande do Norte
 
-Geojson das câmaras municipais do estado do Rio Grande do Norte
+Análise das 10 câmaras municipais dos municípios mais populosos do estado do Rio Grande do Norte quanto ao número de servidores \(comissionados e efetivos\) e sua respectiva área construída.
 
 Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_data.ods) e [GeoJson](assets/camaras_municipais_rn_data.geojson).
 
 | Posição | Município               | População | Site Câmara                         | Latitude  | Longitude  |
 |:-------:| ----------------------- | ---------:|:----------------------------------- |:---------:|:----------:|
-| 1       | Natal                   |    880264 | http://cmnat.rn.gov.br/             | -5.790040 | -35.200482 |
-| 2       | Mossoró                 |    300102 | https://www.mossoro.rn.leg.br/      | -5.192654 | -37.341804 |
-| 3       | Parnamirim              |    259737 | http://www.parnamirim.rn.leg.br/    | -5.923764 | -35.265434 |
-| 4       | São Gonçalo do Amarante |    103328 | http://www.cmsga.rn.gov.br/         | -5.794169 | -35.328604 |
-| 5       | Macaíba                 |     82380 | http://macaiba.rn.leg.br/           | -5.857753 | -35.353950 |
-| 6       | Ceará-Mirim             |     73484 | https://www.cearamirim.rn.leg.br    | -5.632780 | -35.422153 |
-| 7       | Caicó                   |     68268 | http://caico.rn.leg.br/             | -6.457560 | -37.096148 |
-| 8       | Açu                     |     57972 | http://www.acu.rn.leg.br/           | -5.573384 | -36.908962 |
-| 9       | Currais Novos           |     45248 | http://camaradecurraisnovos.com.br/ | -6.263526 | -36.513782 |
-| 10      | Santa Cruz              |     44067 | https://www.santacruz.rn.leg.br/    | -6.230224 | -36.020601 |
-
-
+| 1       | Natal                   | 880264    | http://cmnat.rn.gov.br/             | -5.790040 | -35.200482 |
+| 2       | Mossoró                 | 300102    | https://www.mossoro.rn.leg.br/      | -5.192654 | -37.341804 |
+| 3       | Parnamirim              | 259737    | http://www.parnamirim.rn.leg.br/    | -5.923764 | -35.265434 |
+| 4       | São Gonçalo do Amarante | 103328    | http://www.cmsga.rn.gov.br/         | -5.794169 | -35.328604 |
+| 5       | Macaíba                 | 82380     | http://macaiba.rn.leg.br/           | -5.857753 | -35.353950 |
+| 6       | Ceará-Mirim             | 73484     | https://www.cearamirim.rn.leg.br    | -5.632780 | -35.422153 |
+| 7       | Caicó                   | 68268     | http://caico.rn.leg.br/             | -6.457560 | -37.096148 |
+| 8       | Açu                     | 57972     | http://www.acu.rn.leg.br/           | -5.573384 | -36.908962 |
+| 9       | Currais Novos           | 45248     | http://camaradecurraisnovos.com.br/ | -6.263526 | -36.513782 |
+| 10      | Santa Cruz              | 44067     | https://www.santacruz.rn.leg.br/    | -6.230224 | -36.020601 |
 
 ## Referências
 
