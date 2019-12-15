@@ -36,9 +36,9 @@
     "Relação \nServidores Câmara":"http://168.232.152.232:8282/transparencia/leiacessoinf.aspx",
     "Data Coleta":"13/12/2019",
     "Qtde\nServidores":279,
-    "Área Construída (m²)":null,
-    "m²/Servidores":"",
-    "Servidores \npor 1.000 \nHabitantes":""
+    "Área Construída (m²)":2500,
+    "m²/Servidores":"8,96",
+    "Servidores \npor 1.000 \nHabitantes":"0,93"
     }
   },
   {
@@ -56,7 +56,7 @@
     "Relação \nServidores Câmara":"http://201.59.185.194:8080/transparencia/leiacessoinf.aspx",
     "Data Coleta":"",
     "Qtde\nServidores":null,
-    "Área Construída (m²)":null,
+    "Área Construída (m²)":485,
     "m²/Servidores":"",
     "Servidores \npor 1.000 \nHabitantes":""
     }
@@ -76,7 +76,7 @@
     "Relação \nServidores Câmara":"http://topdown.servehttp.com:8080/transparenciacmsaogoncalo/leiacessoinf.aspx",
     "Data Coleta":"",
     "Qtde\nServidores":null,
-    "Área Construída (m²)":null,
+    "Área Construída (m²)":710,
     "m²/Servidores":"",
     "Servidores \npor 1.000 \nHabitantes":""
     }
@@ -96,7 +96,7 @@
     "Relação \nServidores Câmara":"http://portaldc.com.br/Pages/RH/Consultar_Folhas_de_Pagamento.aspx?ParamEmpCodi=2407104",
     "Data Coleta":"",
     "Qtde\nServidores":null,
-    "Área Construída (m²)":null,
+    "Área Construída (m²)":200,
     "m²/Servidores":"",
     "Servidores \npor 1.000 \nHabitantes":""
     }
@@ -116,7 +116,7 @@
     "Relação \nServidores Câmara":"http://topdowncmrn.ddns.net:8080/transparencia/leiacessoinf.aspx",
     "Data Coleta":"",
     "Qtde\nServidores":null,
-    "Área Construída (m²)":null,
+    "Área Construída (m²)":160,
     "m²/Servidores":"",
     "Servidores \npor 1.000 \nHabitantes":""
     }
@@ -136,7 +136,7 @@
     "Relação \nServidores Câmara":"http://caico.rn.leg.br/folhas-de-pagamento/",
     "Data Coleta":"",
     "Qtde\nServidores":null,
-    "Área Construída (m²)":null,
+    "Área Construída (m²)":540,
     "m²/Servidores":"",
     "Servidores \npor 1.000 \nHabitantes":""
     }
@@ -156,7 +156,7 @@
     "Relação \nServidores Câmara":"http://138.94.94.50/Cidadao/ConsultaServidores.aspx",
     "Data Coleta":"",
     "Qtde\nServidores":null,
-    "Área Construída (m²)":null,
+    "Área Construída (m²)":770,
     "m²/Servidores":"",
     "Servidores \npor 1.000 \nHabitantes":""
     }
@@ -176,7 +176,7 @@
     "Relação \nServidores Câmara":"",
     "Data Coleta":"",
     "Qtde\nServidores":null,
-    "Área Construída (m²)":null,
+    "Área Construída (m²)":320,
     "m²/Servidores":"",
     "Servidores \npor 1.000 \nHabitantes":""
     }
@@ -196,7 +196,7 @@
     "Relação \nServidores Câmara":"http://topdown.servehttp.com:8080/Transparencia/cmsantacruz/leiacessoinf.aspx",
     "Data Coleta":"",
     "Qtde\nServidores":null,
-    "Área Construída (m²)":null,
+    "Área Construída (m²)":400,
     "m²/Servidores":"",
     "Servidores \npor 1.000 \nHabitantes":""
     }
