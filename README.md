@@ -2,7 +2,7 @@
 
 Análise das 10 câmaras municipais dos municípios mais populosos do estado do Rio Grande do Norte quanto ao número de servidores \(comissionados e efetivos\) e sua respectiva área construída.
 
-Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_data.ods) e [GeoJson](assets/camaras_municipais_rn_data.geojson).
+Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_data.ods) e [GeoJson](assets/camaras_municipais_rn_data.geojson). Em breve também em Jupyter Notebook.
 
 | Posição | Município               | População | Site Câmara                         | Latitude  | Longitude  |
 |:-------:| ----------------------- | ---------:|:----------------------------------- |:---------:|:----------:|
