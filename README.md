@@ -33,7 +33,7 @@ Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_d
 - Assu
 - Baía Formosa
 - Baraúna
-- Barcelona
+- Barcelona - [Facebook](https://www.facebook.com/camaradebarcelona/)
 - Bento Fernandes
 - Boa Saúde
 - Bodó
@@ -158,7 +158,7 @@ Base de dados em planilha no formato aberto [ODS](assets/camaras_municipais_rn_d
 - São Pedro
 - São Rafael
 - São Tomé
-- São Vicente
+- São Vicente - https://camarasaovicente.rn.gov.br/
 - Senador Elói de Souza
 - Senador Georgino Avelino
 - Serra Caiada
